@@ -1,1 +1,2 @@
-this is my git stdudy
+this my second line 
+this is my git stdudy second word
